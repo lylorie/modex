@@ -5,6 +5,7 @@ using System.Data;
 using System.Drawing;
 using System.Text;
 using System.Windows.Forms;
+using ModexEdu.modexfunction;
 
 namespace ModexEdu
 {
@@ -24,6 +25,11 @@ namespace ModexEdu
         private void button2_Click(object sender, EventArgs e)
         {
 
+        }
+
+        private void button1_Click(object sender, EventArgs e)
+        {
+            DisplayControl.display(new RegisterForm());
         }
     }
 }
