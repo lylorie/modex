@@ -19,20 +19,21 @@ namespace ModexEdu
 
         private void LoginForm_Load(object sender, EventArgs e)
         {
-
+            //DisplayControl.display(new LoginForm());
         }
 
         private void button2_Click(object sender, EventArgs e)
         {
-            
-            
+
+
             foreach(ModexUser modexUser in Database.registeredUsers)
             {
-                
+
                 if (modexUser.email == emailInput.Text )
                 {
                     if (modexUser.password == passwordInput.Text)
                     {
+
                         if (modexUser.type == "Administrator")
                         {
                             DisplayControl.display(new UniversityForm());

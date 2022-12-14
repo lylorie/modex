@@ -14,6 +14,7 @@ namespace ModexEdu
         public RegisterForm()
         {
             InitializeComponent();
+            passwordInput.PasswordChar = '*';
         }
 
         private void button1_Click(object sender, EventArgs e)
@@ -52,6 +53,21 @@ namespace ModexEdu
             //logout
             //currentUser = null;
             //DisplayControl.display(new LoginForm());
+        }
+
+        private void emailInput_TextChanged(object sender, EventArgs e)
+        {
+
+        }
+
+        private void passwordInput_TextChanged(object sender, EventArgs e)
+        {
+
+        }
+
+        private void label3_Click(object sender, EventArgs e)
+        {
+
         }
     }
 }

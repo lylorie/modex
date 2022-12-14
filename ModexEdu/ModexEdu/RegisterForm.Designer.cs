@@ -47,7 +47,7 @@ namespace ModexEdu
             // label1
             // 
             this.label1.AutoSize = true;
-            this.label1.Location = new System.Drawing.Point(530, 236);
+            this.label1.Location = new System.Drawing.Point(530, 183);
             this.label1.Name = "label1";
             this.label1.Size = new System.Drawing.Size(63, 20);
             this.label1.TabIndex = 0;
@@ -55,7 +55,7 @@ namespace ModexEdu
             // 
             // button1
             // 
-            this.button1.Location = new System.Drawing.Point(1238, 47);
+            this.button1.Location = new System.Drawing.Point(1201, 43);
             this.button1.Name = "button1";
             this.button1.Size = new System.Drawing.Size(94, 29);
             this.button1.TabIndex = 1;
@@ -65,7 +65,7 @@ namespace ModexEdu
             // 
             // button2
             // 
-            this.button2.Location = new System.Drawing.Point(819, 608);
+            this.button2.Location = new System.Drawing.Point(819, 541);
             this.button2.Name = "button2";
             this.button2.Size = new System.Drawing.Size(94, 29);
             this.button2.TabIndex = 7;
@@ -75,6 +75,7 @@ namespace ModexEdu
             // 
             // panel1
             // 
+            this.panel1.BackColor = System.Drawing.Color.Gray;
             this.panel1.Controls.Add(this.typeInput);
             this.panel1.Controls.Add(this.label5);
             this.panel1.Controls.Add(this.textBox1);
@@ -83,9 +84,9 @@ namespace ModexEdu
             this.panel1.Controls.Add(this.emailInput);
             this.panel1.Controls.Add(this.label2);
             this.panel1.Controls.Add(this.label3);
-            this.panel1.Location = new System.Drawing.Point(530, 299);
+            this.panel1.Location = new System.Drawing.Point(530, 232);
             this.panel1.Name = "panel1";
-            this.panel1.Size = new System.Drawing.Size(383, 303);
+            this.panel1.Size = new System.Drawing.Size(464, 303);
             this.panel1.TabIndex = 6;
             // 
             // typeInput
@@ -94,9 +95,9 @@ namespace ModexEdu
             this.typeInput.Items.AddRange(new object[] {
             "Student",
             "Administrator"});
-            this.typeInput.Location = new System.Drawing.Point(117, 82);
+            this.typeInput.Location = new System.Drawing.Point(164, 90);
             this.typeInput.Name = "typeInput";
-            this.typeInput.Size = new System.Drawing.Size(266, 28);
+            this.typeInput.Size = new System.Drawing.Size(299, 28);
             this.typeInput.TabIndex = 8;
             // 
             // label5
@@ -110,9 +111,9 @@ namespace ModexEdu
             // 
             // textBox1
             // 
-            this.textBox1.Location = new System.Drawing.Point(114, 230);
+            this.textBox1.Location = new System.Drawing.Point(164, 234);
             this.textBox1.Name = "textBox1";
-            this.textBox1.Size = new System.Drawing.Size(266, 27);
+            this.textBox1.Size = new System.Drawing.Size(299, 27);
             this.textBox1.TabIndex = 6;
             // 
             // label4
@@ -120,24 +121,27 @@ namespace ModexEdu
             this.label4.AutoSize = true;
             this.label4.Location = new System.Drawing.Point(19, 237);
             this.label4.Name = "label4";
-            this.label4.Size = new System.Drawing.Size(70, 20);
+            this.label4.Size = new System.Drawing.Size(127, 20);
             this.label4.TabIndex = 5;
-            this.label4.Text = "Password";
+            this.label4.Text = "Confirm Password";
+            this.label4.TextAlign = System.Drawing.ContentAlignment.BottomCenter;
             this.label4.Click += new System.EventHandler(this.label4_Click);
             // 
             // passwordInput
             // 
-            this.passwordInput.Location = new System.Drawing.Point(117, 154);
+            this.passwordInput.Location = new System.Drawing.Point(164, 161);
             this.passwordInput.Name = "passwordInput";
-            this.passwordInput.Size = new System.Drawing.Size(266, 27);
+            this.passwordInput.Size = new System.Drawing.Size(299, 27);
             this.passwordInput.TabIndex = 4;
+            this.passwordInput.TextChanged += new System.EventHandler(this.passwordInput_TextChanged);
             // 
             // emailInput
             // 
-            this.emailInput.Location = new System.Drawing.Point(117, 26);
+            this.emailInput.Location = new System.Drawing.Point(164, 23);
             this.emailInput.Name = "emailInput";
-            this.emailInput.Size = new System.Drawing.Size(266, 27);
+            this.emailInput.Size = new System.Drawing.Size(299, 27);
             this.emailInput.TabIndex = 3;
+            this.emailInput.TextChanged += new System.EventHandler(this.emailInput_TextChanged);
             // 
             // label2
             // 
@@ -153,15 +157,17 @@ namespace ModexEdu
             this.label3.AutoSize = true;
             this.label3.Location = new System.Drawing.Point(19, 161);
             this.label3.Name = "label3";
-            this.label3.Size = new System.Drawing.Size(70, 20);
+            this.label3.Size = new System.Drawing.Size(104, 20);
             this.label3.TabIndex = 1;
-            this.label3.Text = "Password";
+            this.label3.Text = "New Password";
+            this.label3.Click += new System.EventHandler(this.label3_Click);
             // 
             // RegisterForm
             // 
             this.AutoScaleDimensions = new System.Drawing.SizeF(8F, 20F);
             this.AutoScaleMode = System.Windows.Forms.AutoScaleMode.Font;
-            this.ClientSize = new System.Drawing.Size(1416, 751);
+            this.BackColor = System.Drawing.Color.FromArgb(((int)(((byte)(64)))), ((int)(((byte)(64)))), ((int)(((byte)(64)))));
+            this.ClientSize = new System.Drawing.Size(1340, 617);
             this.Controls.Add(this.button2);
             this.Controls.Add(this.panel1);
             this.Controls.Add(this.button1);
