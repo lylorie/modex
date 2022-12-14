@@ -1,4 +1,5 @@
-﻿using System;
+﻿using ModexEdu.modexfunction;
+using System;
 using System.Collections.Generic;
 using System.ComponentModel;
 using System.Data;
@@ -13,6 +14,11 @@ namespace ModexEdu
         public UniversityForm()
         {
             InitializeComponent();
+        }
+
+        private void button4_Click(object sender, EventArgs e)
+        {
+            DisplayControl.display(new LoginForm());
         }
     }
 }

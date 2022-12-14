@@ -8,19 +8,19 @@
     ".NETCoreApp,Version=v3.1": []
   },
   "packageFolders": {
-    "C:\\Users\\nklee\\.nuget\\packages\\": {}
+    "C:\\Users\\orlin\\.nuget\\packages\\": {}
   },
   "project": {
     "version": "1.0.0",
     "restore": {
-      "projectUniqueName": "C:\\Users\\nklee\\OneDrive\\Desktop\\CP3_Implementation\\modex\\ModexEdu\\ModexEdu\\ModexEdu.csproj",
+      "projectUniqueName": "C:\\Users\\orlin\\source\\repos\\lylorie\\modex\\ModexEdu\\ModexEdu\\ModexEdu.csproj",
       "projectName": "ModexEdu",
-      "projectPath": "C:\\Users\\nklee\\OneDrive\\Desktop\\CP3_Implementation\\modex\\ModexEdu\\ModexEdu\\ModexEdu.csproj",
-      "packagesPath": "C:\\Users\\nklee\\.nuget\\packages\\",
-      "outputPath": "C:\\Users\\nklee\\OneDrive\\Desktop\\CP3_Implementation\\modex\\ModexEdu\\ModexEdu\\obj\\",
+      "projectPath": "C:\\Users\\orlin\\source\\repos\\lylorie\\modex\\ModexEdu\\ModexEdu\\ModexEdu.csproj",
+      "packagesPath": "C:\\Users\\orlin\\.nuget\\packages\\",
+      "outputPath": "C:\\Users\\orlin\\source\\repos\\lylorie\\modex\\ModexEdu\\ModexEdu\\obj\\",
       "projectStyle": "PackageReference",
       "configFilePaths": [
-        "C:\\Users\\nklee\\AppData\\Roaming\\NuGet\\NuGet.Config",
+        "C:\\Users\\orlin\\AppData\\Roaming\\NuGet\\NuGet.Config",
         "C:\\Program Files (x86)\\NuGet\\Config\\Microsoft.VisualStudio.Offline.config"
       ],
       "originalTargetFrameworks": [
@@ -51,7 +51,8 @@
           "net47",
           "net471",
           "net472",
-          "net48"
+          "net48",
+          "net481"
         ],
         "assetTargetFallback": true,
         "warn": true,
@@ -63,7 +64,7 @@
             "privateAssets": "none"
           }
         },
-        "runtimeIdentifierGraphPath": "C:\\Program Files\\dotnet\\sdk\\5.0.406\\RuntimeIdentifierGraph.json"
+        "runtimeIdentifierGraphPath": "C:\\Program Files\\dotnet\\sdk\\7.0.100-rc.2.22477.23\\RuntimeIdentifierGraph.json"
       }
     }
   }

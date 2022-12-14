@@ -21,6 +21,7 @@ namespace ModexEdu.modexfunction
         public static Form getMainForm() 
         {
             display(new LoginForm());
+            display(new RegisterForm());
             return mainForm;
         }
     }
