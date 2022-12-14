@@ -38,3 +38,23 @@ C:\Users\orlin\source\repos\lylorie\modex\ModexEdu\ModexEdu\obj\Debug\netcoreapp
 C:\Users\orlin\source\repos\lylorie\modex\ModexEdu\ModexEdu\obj\Debug\netcoreapp3.1\ModexEdu.dll
 C:\Users\orlin\source\repos\lylorie\modex\ModexEdu\ModexEdu\obj\Debug\netcoreapp3.1\ModexEdu.pdb
 C:\Users\orlin\source\repos\lylorie\modex\ModexEdu\ModexEdu\obj\Debug\netcoreapp3.1\ModexEdu.genruntimeconfig.cache
+C:\Users\orlin\Documents\Bsc. Biomed Eng\CP3\modex\ModexEdu\ModexEdu\bin\Debug\netcoreapp3.1\ModexEdu.exe
+C:\Users\orlin\Documents\Bsc. Biomed Eng\CP3\modex\ModexEdu\ModexEdu\bin\Debug\netcoreapp3.1\ModexEdu.deps.json
+C:\Users\orlin\Documents\Bsc. Biomed Eng\CP3\modex\ModexEdu\ModexEdu\bin\Debug\netcoreapp3.1\ModexEdu.runtimeconfig.json
+C:\Users\orlin\Documents\Bsc. Biomed Eng\CP3\modex\ModexEdu\ModexEdu\bin\Debug\netcoreapp3.1\ModexEdu.runtimeconfig.dev.json
+C:\Users\orlin\Documents\Bsc. Biomed Eng\CP3\modex\ModexEdu\ModexEdu\bin\Debug\netcoreapp3.1\ModexEdu.dll
+C:\Users\orlin\Documents\Bsc. Biomed Eng\CP3\modex\ModexEdu\ModexEdu\bin\Debug\netcoreapp3.1\ModexEdu.pdb
+C:\Users\orlin\Documents\Bsc. Biomed Eng\CP3\modex\ModexEdu\ModexEdu\obj\Debug\netcoreapp3.1\ModexEdu.csproj.AssemblyReference.cache
+C:\Users\orlin\Documents\Bsc. Biomed Eng\CP3\modex\ModexEdu\ModexEdu\obj\Debug\netcoreapp3.1\ModexEdu.LoginForm.resources
+C:\Users\orlin\Documents\Bsc. Biomed Eng\CP3\modex\ModexEdu\ModexEdu\obj\Debug\netcoreapp3.1\ModexEdu.MainForm.resources
+C:\Users\orlin\Documents\Bsc. Biomed Eng\CP3\modex\ModexEdu\ModexEdu\obj\Debug\netcoreapp3.1\ModexEdu.RegisterForm.resources
+C:\Users\orlin\Documents\Bsc. Biomed Eng\CP3\modex\ModexEdu\ModexEdu\obj\Debug\netcoreapp3.1\ModexEdu.StudentForm.resources
+C:\Users\orlin\Documents\Bsc. Biomed Eng\CP3\modex\ModexEdu\ModexEdu\obj\Debug\netcoreapp3.1\ModexEdu.UniversityForm.resources
+C:\Users\orlin\Documents\Bsc. Biomed Eng\CP3\modex\ModexEdu\ModexEdu\obj\Debug\netcoreapp3.1\ModexEdu.csproj.GenerateResource.cache
+C:\Users\orlin\Documents\Bsc. Biomed Eng\CP3\modex\ModexEdu\ModexEdu\obj\Debug\netcoreapp3.1\ModexEdu.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\orlin\Documents\Bsc. Biomed Eng\CP3\modex\ModexEdu\ModexEdu\obj\Debug\netcoreapp3.1\ModexEdu.AssemblyInfoInputs.cache
+C:\Users\orlin\Documents\Bsc. Biomed Eng\CP3\modex\ModexEdu\ModexEdu\obj\Debug\netcoreapp3.1\ModexEdu.AssemblyInfo.cs
+C:\Users\orlin\Documents\Bsc. Biomed Eng\CP3\modex\ModexEdu\ModexEdu\obj\Debug\netcoreapp3.1\ModexEdu.csproj.CoreCompileInputs.cache
+C:\Users\orlin\Documents\Bsc. Biomed Eng\CP3\modex\ModexEdu\ModexEdu\obj\Debug\netcoreapp3.1\ModexEdu.dll
+C:\Users\orlin\Documents\Bsc. Biomed Eng\CP3\modex\ModexEdu\ModexEdu\obj\Debug\netcoreapp3.1\ModexEdu.pdb
+C:\Users\orlin\Documents\Bsc. Biomed Eng\CP3\modex\ModexEdu\ModexEdu\obj\Debug\netcoreapp3.1\ModexEdu.genruntimeconfig.cache

@@ -1,17 +1,17 @@
 {
   "format": 1,
   "restore": {
-    "C:\\Users\\orlin\\source\\repos\\lylorie\\modex\\ModexEdu\\ModexEdu\\ModexEdu.csproj": {}
+    "C:\\Users\\orlin\\Documents\\Bsc. Biomed Eng\\CP3\\modex\\ModexEdu\\ModexEdu\\ModexEdu.csproj": {}
   },
   "projects": {
-    "C:\\Users\\orlin\\source\\repos\\lylorie\\modex\\ModexEdu\\ModexEdu\\ModexEdu.csproj": {
+    "C:\\Users\\orlin\\Documents\\Bsc. Biomed Eng\\CP3\\modex\\ModexEdu\\ModexEdu\\ModexEdu.csproj": {
       "version": "1.0.0",
       "restore": {
-        "projectUniqueName": "C:\\Users\\orlin\\source\\repos\\lylorie\\modex\\ModexEdu\\ModexEdu\\ModexEdu.csproj",
+        "projectUniqueName": "C:\\Users\\orlin\\Documents\\Bsc. Biomed Eng\\CP3\\modex\\ModexEdu\\ModexEdu\\ModexEdu.csproj",
         "projectName": "ModexEdu",
-        "projectPath": "C:\\Users\\orlin\\source\\repos\\lylorie\\modex\\ModexEdu\\ModexEdu\\ModexEdu.csproj",
+        "projectPath": "C:\\Users\\orlin\\Documents\\Bsc. Biomed Eng\\CP3\\modex\\ModexEdu\\ModexEdu\\ModexEdu.csproj",
         "packagesPath": "C:\\Users\\orlin\\.nuget\\packages\\",
-        "outputPath": "C:\\Users\\orlin\\source\\repos\\lylorie\\modex\\ModexEdu\\ModexEdu\\obj\\",
+        "outputPath": "C:\\Users\\orlin\\Documents\\Bsc. Biomed Eng\\CP3\\modex\\ModexEdu\\ModexEdu\\obj\\",
         "projectStyle": "PackageReference",
         "configFilePaths": [
           "C:\\Users\\orlin\\AppData\\Roaming\\NuGet\\NuGet.Config",
