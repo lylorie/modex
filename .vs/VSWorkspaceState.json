@@ -2,10 +2,7 @@
   "ExpandedNodes": [
     "",
     "\\ModexEdu",
-    "\\ModexEdu\\ModexEdu",
-    "\\ModexEdu\\ModexEdu\\bin",
-    "\\ModexEdu\\ModexEdu\\modexfunction"
+    "\\ModexEdu\\ModexEdu"
   ],
-  "SelectedNode": "\\ModexEdu\\ModexEdu\\UniversityForm.cs",
   "PreviewInSolutionExplorer": false
 }
