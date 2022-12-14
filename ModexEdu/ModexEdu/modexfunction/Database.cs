@@ -19,5 +19,10 @@ namespace ModexEdu.modexfunction
             { return new ModexUser(); }
             return currentUser;
         }
+
+        public static ModexUniversity getCurrentUniversity()
+        {
+            return modexUniversity;
+        }
     }
 }

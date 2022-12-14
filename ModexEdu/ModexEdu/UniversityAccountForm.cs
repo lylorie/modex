@@ -34,13 +34,13 @@ namespace ModexEdu
 
             }
             ModexUniversity modexUniversity = Database.getCurrentUniversity();
-            uniNameInput = modexUniversity.universityName;
-            modexUniversity.uniStreetName = streetNameInput.Text;
-            modexUniversity.uniBuildingNumber = buildingNumberInput.Text;
-            modexUniversity.uniPostalCode = postalCodeInput.Text;
-            modexUniversity.uniCity = cityInput.Text;
-            modexUniversity.uniCountry = countryInput.Text;
-            modexUniversity.uniContact = contactNumberUniInput.Text;
+            uniNameInput.Text = modexUniversity.universityName; 
+            streetNameInput.Text = modexUniversity.uniStreetName;
+            streetNameInput.Text = modexUniversity.uniBuildingNumber;
+            postalCodeInput.Text = modexUniversity.uniPostalCode;
+            cityInput.Text = modexUniversity.uniCity;
+            countryInput.Text = modexUniversity.uniCountry;
+            contactNumberUniInput.Text = modexUniversity.uniContact;
         }
 
         private void button1_Click(object sender, EventArgs e)
