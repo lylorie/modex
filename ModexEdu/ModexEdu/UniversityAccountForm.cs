@@ -20,27 +20,31 @@ namespace ModexEdu
 
         private void intializeUniversity()
         {
-            foreach (ModexUniversity modexUniversity in Database.modexUniversities)
             {
-
-                if (Database.currentUser.email == modexUniversity.email)
+                foreach (ModexUniversity modexUniversity in Database.modexUniversities)
                 {
 
+                    if (Database.currentUser.email == modexUniversity.email)
+                    {
 
-                    Database.modexUniversity = modexUniversity;
-                    break;
+
+                        Database.modexUniversity = modexUniversity;
+                        break;
+                    }
+
+
                 }
-
-
             }
-            ModexUniversity modexUniversity = Database.getCurrentUniversity();
-            uniNameInput.Text = modexUniversity.universityName; 
-            streetNameInput.Text = modexUniversity.uniStreetName;
-            streetNameInput.Text = modexUniversity.uniBuildingNumber;
-            postalCodeInput.Text = modexUniversity.uniPostalCode;
-            cityInput.Text = modexUniversity.uniCity;
-            countryInput.Text = modexUniversity.uniCountry;
-            contactNumberUniInput.Text = modexUniversity.uniContact;
+            {
+                ModexUniversity modexUniversity = Database.getCurrentUniversity();
+                uniNameInput.Text = modexUniversity.universityName;
+                streetNameInput.Text = modexUniversity.uniStreetName;
+                streetNameInput.Text = modexUniversity.uniBuildingNumber;
+                postalCodeInput.Text = modexUniversity.uniPostalCode;
+                cityInput.Text = modexUniversity.uniCity;
+                countryInput.Text = modexUniversity.uniCountry;
+                contactNumberUniInput.Text = modexUniversity.uniContact;
+            }
         }
 
         private void button1_Click(object sender, EventArgs e)
