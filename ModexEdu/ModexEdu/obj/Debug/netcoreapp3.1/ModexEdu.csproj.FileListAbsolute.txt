@@ -58,3 +58,4 @@ C:\Users\orlin\Documents\Bsc. Biomed Eng\CP3\modex\ModexEdu\ModexEdu\obj\Debug\n
 C:\Users\orlin\Documents\Bsc. Biomed Eng\CP3\modex\ModexEdu\ModexEdu\obj\Debug\netcoreapp3.1\ModexEdu.dll
 C:\Users\orlin\Documents\Bsc. Biomed Eng\CP3\modex\ModexEdu\ModexEdu\obj\Debug\netcoreapp3.1\ModexEdu.pdb
 C:\Users\orlin\Documents\Bsc. Biomed Eng\CP3\modex\ModexEdu\ModexEdu\obj\Debug\netcoreapp3.1\ModexEdu.genruntimeconfig.cache
+C:\Users\orlin\Documents\Bsc. Biomed Eng\CP3\modex\ModexEdu\ModexEdu\obj\Debug\netcoreapp3.1\ModexEdu.UniversityAccountForm.resources

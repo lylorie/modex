@@ -20,5 +20,10 @@ namespace ModexEdu
         {
             DisplayControl.display(new LoginForm());
         }
+
+        private void button1_Click(object sender, EventArgs e)
+        {
+            DisplayControl.display(new UniversityAccountForm());
+        }
     }
 }
